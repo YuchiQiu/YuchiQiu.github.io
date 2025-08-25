@@ -16,6 +16,9 @@ Yutong Sha<sup>#</sup>, **Yuchi Qiu<sup>#</sup>**, and Qing Nie. (#: co-first)\
 **_Journal of Machine Learning for Modeling and Computing_**, 2023.
 
 ## AI-aided protein designs
+- An integrated framework accelerating protein design through mutagenesis, (news & views),\
+**Yuchi Qiu**\
+**_Nature Machine Intelligence_**, 2025.
 - [Artificial intelligence-aided protein engineering: from topological data analysis to deep protein language models](https://academic.oup.com/bib/article/24/5/bbad289/7241306),\
 **Yuchi Qiu** and Guo-Wei Wei.\
 **_Briefings in Bioinformatics_**, 2023.
