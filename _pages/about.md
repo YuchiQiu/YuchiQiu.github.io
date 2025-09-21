@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Biochemistry and Molecular Genetics](https://chicago.medicine.uic.edu/bmg/) and a faculty member in the [Center of Bioinformatics and Quantitative Biology](https://cbqb.uic.edu) at the University of Illinois Chicago. 
+I am an Assistant Professor in the [Department of Biochemistry and Molecular Genetics](https://chicago.medicine.uic.edu/bmg/) and a faculty member in the [Center for Bioinformatics and Quantitative Biology](https://cbqb.uic.edu) at the University of Illinois Chicago. 
 
 Previously, I held postdoc positions at University of California, Irvine, supervised by [Qing Nie](https://faculty.sites.uci.edu/qnie/),and at Michigan State University, supervised by [Guo-Wei Wei](https://users.math.msu.edu/users/weig/). I received  Ph.D. (2020) in Mathematics at University of California, Irvine.
 
