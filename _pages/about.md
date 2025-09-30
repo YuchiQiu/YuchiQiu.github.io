@@ -14,7 +14,7 @@ Previously, I held postdoc positions at University of California, Irvine, superv
 
 News
 ======
-Our new manuscript is now available in [Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01118-3.epdf?sharing_token=iH0ylaFtD8ATimHr2NdjnNRgN0jAjWel9jnR3ZoTv0MlJmLgfLneuWG8BB7x-lVPeRkfCqQJymeSAuMt3yRPPIuBomJcgU1xRfnNoytSIfZjjhZFlFOD3PBJtAnWDhRJGeWLTO4VgpeUVti9YOnYDq5wR32l9g1Tg9Zb1hBYTC0%3D)!
+- (Sep 29,2025) Our new manuscript is now available in [Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-01118-3.epdf?sharing_token=iH0ylaFtD8ATimHr2NdjnNRgN0jAjWel9jnR3ZoTv0MlJmLgfLneuWG8BB7x-lVPeRkfCqQJymeSAuMt3yRPPIuBomJcgU1xRfnNoytSIfZjjhZFlFOD3PBJtAnWDhRJGeWLTO4VgpeUVti9YOnYDq5wR32l9g1Tg9Zb1hBYTC0%3D)!
 
 Research Interests
 ======
